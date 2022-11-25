@@ -1,0 +1,9 @@
+#Библиотека
+L2983D KEYWORD1
+#Объекты
+UDCMotor KEYWORD1
+UStepper KEYWORD1
+#Методы
+start KEYWORD2
+angle KEYWORD2
+getAngle KEYWORD2
